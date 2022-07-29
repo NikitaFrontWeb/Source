@@ -5,6 +5,7 @@ import forms from './modules/forms';
 import changeModalState from './modules/changeModalState';
 import timer from './modules/timer';
 import images from './modules/images';
+import scroll from './modules/scroll';
 
 window.addEventListener('DOMContentLoaded', () => {
     "use strict";
